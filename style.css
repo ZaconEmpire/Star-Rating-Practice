@@ -1,0 +1,13 @@
+body{
+    background-color: #444;
+}
+div{
+    margin: 20% 0 0 30%;
+    display: flex;
+}
+i{
+    color: white;
+    user-select: none;
+    font-size: 60px;
+    cursor: pointer;
+}
